@@ -953,6 +953,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17864883988",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 6,
+      "name": "Sunday \ud83d\udeb4",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17895446317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1899,11 +1908,20 @@
           "distance": 10273.6,
           "elevation_gain": 38.1,
           "moving_time": 2042.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17895446317"
+          ],
+          "count": 1,
+          "distance": 20716.6,
+          "elevation_gain": 90.9,
+          "moving_time": 3978.0
         }
       }
     }
   },
-  "generated_at": "2026-03-28T14:55:41.655152+00:00",
+  "generated_at": "2026-03-29T06:39:28.602894+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/190229685",
   "repo": "kamaleshjoy/git-sweaty",
