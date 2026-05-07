@@ -1250,6 +1250,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18398532276",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18411496999",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2493,11 +2502,20 @@
           "distance": 28039.7,
           "elevation_gain": 117.1,
           "moving_time": 5417.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18411496999"
+          ],
+          "count": 1,
+          "distance": 28044.0,
+          "elevation_gain": 117.2,
+          "moving_time": 5378.0
         }
       }
     }
   },
-  "generated_at": "2026-05-07T10:38:16.993102+00:00",
+  "generated_at": "2026-05-07T15:40:44.232217+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/190229685",
   "repo": "kamaleshjoy/git-sweaty",
