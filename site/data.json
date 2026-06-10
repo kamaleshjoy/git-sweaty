@@ -1394,6 +1394,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18768916898",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 17,
+      "name": "GPS Played Today \ud83e\udd37\u200d\u2642\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18864135716",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2783,11 +2792,20 @@
           "distance": 10284.5,
           "elevation_gain": 37.9,
           "moving_time": 1950.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18864135716"
+          ],
+          "count": 1,
+          "distance": 3987.2,
+          "elevation_gain": 11.3,
+          "moving_time": 3431.0
         }
       }
     }
   },
-  "generated_at": "2026-06-10T09:02:54.935458+00:00",
+  "generated_at": "2026-06-10T16:45:55.269796+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/190229685",
   "repo": "kamaleshjoy/git-sweaty",
